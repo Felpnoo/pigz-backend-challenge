@@ -62,16 +62,16 @@ pytest
 ## 🔌 API Endpoints
 Lists
 
-*POST /lists/ - Create a new To-Do list.
+* POST /lists/ - Create a new To-Do list.
 
-*GET /lists/ - View all lists.
+* GET /lists/ - View all lists.
 
-*DELETE /lists/{id} - Delete a list.
+* DELETE /lists/{id} - Delete a list.
 
 Tasks
 
-*POST /lists/{id}/tasks/ - Add a task to a specific list.
+* POST /lists/{id}/tasks/ - Add a task to a specific list.
 
-*PATCH /tasks/{id}/complete - Mark a task as done.
+* PATCH /tasks/{id}/complete - Mark a task as done.
 ```
->Implemented by Felipe Silva.
+> Implemented by Felipe Silva.
