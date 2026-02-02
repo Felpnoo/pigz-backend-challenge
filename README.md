@@ -73,5 +73,5 @@ Tasks
 * POST /lists/{id}/tasks/ - Add a task to a specific list.
 
 * PATCH /tasks/{id}/complete - Mark a task as done.
-```
+
 > Implemented by Felipe Silva.
